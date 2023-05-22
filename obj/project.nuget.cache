@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Urz24Nu32xGR2ciLA8LPJLBPhKWXLLPLjPB7ocGR0oD6ND+KroizLbo1ucPwecGSA3HrL3f5R8f3YWdmSO9Qw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\repetition\\repetition\\repetition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bergman.william\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
